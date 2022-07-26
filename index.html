@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Examen Segundo Parcial</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/indexJ.css">
+
+<body>
+     <h1>Registrar 10 productos</h1>
+    <div class="container">
+        <div class="section">
+            <button class="btn" id="boton">Cargar Datos json</button>
+            <table id="buscar" align="center" border="4" bordercolor=""
+            cellpadding="0" cellspacing="0" style="display: none;">
+                <thead>
+                  <tr>
+                    <th bgcolor="yellow">Codigo</th>
+                    <th bgcolor="yellow">Descripcion</th>
+                    <th bgcolor="yellow">Unidad</th>
+                    <th bgcolor="yellow">Cantidad</th>
+                    <th bgcolor="yellow">Proveedor</th>
+                   
+                </tr>
+                </thead>
+                <tbody id="res">
+
+                </tbody>
+            </table>
+        </div>
+        <div class="seleccion">
+            <p>Seleccione el Producto</p>
+            <div class="consulta">
+              <button onclick="consultarData('1')">Yogurt</button>
+              <button onclick="consultarData('2')">Coca cola</button>
+              <button onclick="consultarData('3')">Chupetes</button>
+              <button onclick="consultarData('4')">Lonchys</button>
+              <button onclick="consultarData('5')">Caramelos</button>
+              <button onclick="consultarData('6')">Chocolates</button>
+              <button onclick="consultarData('7')">Jugos Del Valle</button>
+              <button onclick="consultarData('8')">Mantequilla</button>
+              <button onclick="consultarData('9')">Rufles</button>
+              <button onclick="consultarData('10')">Doritos</button>
+            </div>
+          </div>
+          <div class="seccion_est">
+            <h2>Informacion del Producto</h2>
+            <div id="datos" class="seccion-datos"></div>
+          </div>
+    </div>
+
+    </div>
+    
+     
+    <script src="indexJ.js"></script>
+
+</body>
+</html>

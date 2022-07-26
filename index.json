@@ -1,0 +1,77 @@
+{
+    "DatosProducto": [
+      {
+  
+        "codigo": "1",
+        "descripcion": "Yogurt 200 ml Fresa",
+        "unidad": "docena",
+        "cantidad": "12",
+        "proveedor": "Andina"
+    
+    },
+    {
+        "codigo": "2",
+        "descripcion": "Coca cola 200 ml",
+        "unidad": "2 docena",
+        "cantidad": "24",
+        "proveedor": "Coca cola"
+    },
+    {
+        "codigo": "3",
+        "descripcion": "Chupetes fress",
+        "unidad": "2 docena",
+        "cantidad": "24",
+        "proveedor": "Bubaloo"
+    },
+    {
+        "codigo": "4",
+        "descripcion": "Lonchys 200 ml",
+        "unidad": "1 docena",
+        "cantidad": "12",
+        "proveedor": "Lonchys"
+    },
+    {
+        "codigo": "5",
+        "descripcion": "Caramelos 200 ml",
+        "unidad": "1 docena",
+        "cantidad": "12",
+        "proveedor": "Plop"
+    },
+    {
+        "codigo": "6",
+        "descripcion": "Chocolates Jets 200 ml",
+        "unidad": "2 docena",
+        "cantidad": "24",
+        "proveedor": "Jets"
+    },
+    {
+        "codigo": "7",
+        "descripcion": "Valle 200 ml",
+        "unidad": "2 docena",
+        "cantidad": "24",
+        "proveedor": "Del Valle"
+    },
+    {
+        "codigo": "8",
+        "descripcion": "Mantequilla 200 ml",
+        "unidad": "1 docena",
+        "cantidad": "12",
+        "proveedor": "Bonella"
+    },
+    {
+        "codigo": "9",
+        "descripcion": "Papas fritas 200 ml",
+        "unidad": "2 docena",
+        "cantidad": "24",
+        "proveedor": "Rufless"
+    },
+    {
+        "codigo": "10",
+        "descripcion": "Doritos 200 ml",
+        "unidad": "1 docena",
+        "cantidad": "12",
+        "proveedor": "Doritos"
+    }
+    ]
+  }
+  

@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(182, 197, 194);
+}
+
+.content {
+    text-align: center;
+    background-color: rgb(135, 20, 20);
+    color: rgb(175, 133, 43);
+    padding: 20px;
+    font-family: Arial, sans-serif
+}
+
+.formulario {
+    background-color: rgba(14, 13, 13, 0.645);
+    padding: 12px 20px 12px 40px;
+}
+.texto{
+    width: 100%;
+}
+.container{
+    width: 100%;
+}
+.CargarDatos{
+    background-color: rgb(91, 40, 27);
+    border-radius: 15px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+}
+.btn{
+    background-color: rgb(231, 180, 168);
+    border-radius: 15px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+}
+.contenedor{
+    display: flex;
+    padding: 50px;
+    width: auto;
+    margin-right: 50px;
+}
+.seleccion{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.infor{
+    font-size: 40px;
+}
+.seleccion p{
+    font-size: 45px;
+    margin-top: 50px
+}
+.btnB{
+    background-color: rgb(187, 165, 137);
+    border: none;
+    height: 40px;
+    width: 80px;
+}
+.select{
+    width: auto;
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    background-color: rgba(63, 64, 13, 0.823);
+}
+.consulta button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color: rgb(120, 179, 147);
+}
+.consulta button:hover{
+    cursor: pointer;
+    background-color: rgb(77, 78, 54);
+}
+.seccion_est h2{
+    font-size: 40px;
+}
+.data{
+    margin-top: 10px;
+    font-size: 15px;
+    
+    
+}
